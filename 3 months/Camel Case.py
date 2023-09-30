@@ -91,7 +91,7 @@ print(camel(s))
 #
 # print(ord(")"))
 #
-# s = "Timofey"
+# s = "Timofey" blabla
 #
 # s = s[2:-2]
 #
